@@ -1,7 +1,9 @@
 # Payment Integration with Stripe using PHP
 
-This project demonstrates how to integrate Stripe Checkout into a PHP application for processing payments.
+![{DE332B09-4FB8-4C57-B606-BF7B9B4C1D09}](https://github.com/user-attachments/assets/551678ee-0293-44ae-9e3e-668bcca53c21)
 
+
+This project demonstrates how to integrate Stripe Checkout into a PHP application for processing payments.
 
 ## Features
 - Create a Stripe Checkout session for a single product.
@@ -18,7 +20,7 @@ This project demonstrates how to integrate Stripe Checkout into a PHP applicatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/payment-integration-php.git
+   git clone https://github.com/ghdbashen/payment-integration-php.git
    cd payment-integration-php
    ```
 
@@ -38,7 +40,9 @@ This project demonstrates how to integrate Stripe Checkout into a PHP applicatio
 4. Start your web server and navigate to the project directory in your browser.
 
 ## Usage
-<video controls src="Nike Zoom KD 12 and 1 more page - Personal - Microsoft​ Edge 2024-12-28 23-06-11.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/76eeae55-7427-4611-8704-3b40c6fc72f3
+
 
 1. Access the application in your browser:
    ```
