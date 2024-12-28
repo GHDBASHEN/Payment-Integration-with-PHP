@@ -8,8 +8,8 @@ $stripe_secret_key = "sk_test_51Qb2bRGpoWioXpuzPUenaMe59gfnKrjGqSf5zo9xkGV17yJsH
 
 $checkout_session = \Stripe\Checkout\Session::create([
     "mode" => "payment",
-    "success_url" => "http://localhost/success.php",
-    "cancel_url" => "http://localhost/index.php",
+    "success_url" => "http://localhost/Payment-Integration-with-PHP/success.php",
+    "cancel_url" => "http://localhost/Payment-Integration-with-PHP/index.php",
     "locale" => "auto",
     "line_items" => [
         [
