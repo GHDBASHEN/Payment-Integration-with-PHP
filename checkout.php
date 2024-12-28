@@ -16,22 +16,13 @@ $checkout_session = \Stripe\Checkout\Session::create([
             "quantity" => 1,
             "price_data" => [
                 "currency" => "usd",
-                "unit_amount" => 2000,
+                "unit_amount" => 18999,
                 "product_data" => [
-                    "name" => "T-shirt"
+                    "name" => "Shoe"
                 ]
             ]
-        ],
-        [
-            "quantity" => 2,
-            "price_data" => [
-                "currency" => "usd",
-                "unit_amount" => 700,
-                "product_data" => [
-                    "name" => "Hat"
-                ]
-            ]
-        ]        
+        ]
+               
     ]
 ]);
 
