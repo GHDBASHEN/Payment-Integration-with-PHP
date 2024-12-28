@@ -42,6 +42,7 @@ This project demonstrates how to integrate Stripe Checkout into a PHP applicatio
 ## Usage
 
 https://github.com/user-attachments/assets/76eeae55-7427-4611-8704-3b40c6fc72f3
+![{670CEADE-8706-4406-8F53-94F88278C5FE}](https://github.com/user-attachments/assets/40c6458c-c58f-46c5-9b24-3cbc2332a175)
 
 
 1. Access the application in your browser:
